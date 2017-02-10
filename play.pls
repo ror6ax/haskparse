@@ -1,0 +1,12 @@
+[playlist]
+numberofentries=3
+File1=http:://google.com
+Title1=Sometitle1
+Length1=-1
+File2=http:://google.com
+Title2=Sometitle1
+Length2=-1
+File3=http:://google.com
+Title3=Sometitle1
+Length3=-1
+Version=2
